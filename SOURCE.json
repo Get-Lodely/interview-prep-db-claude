@@ -1,0 +1,17 @@
+{
+  "foundationVersion": "1.0.0",
+  "packageLicense": "proprietary",
+  "foundationSkillSha256": "755054ddf7e203238ed138d81c02beae352f741ec2c49aed92365396cc600bed",
+  "foundationManifestSha256": "32c0210bcf318821852f8fa872242a061307bb1454d26f29254ed17c4ad71625",
+  "files": {
+    "assets/icon.png": "9c5b940306b342b226891d5c7f1e6f503f8e6cac8121b9d6c70b299ea99aa1b0",
+    "skills/swe-interview-prep/SKILL.md": "931408b96dcd03f00186253bbf5e19a1b250e8df302dc1f30e27385b2d139bcb",
+    "skills/swe-interview-prep/LICENSE": "60c8dfeeabcf7c5c3fdd561924f375fed0c61488d86837ae17657a14bb0ad1d2"
+  },
+  "adaptations": [
+    "Claude manifest and HTTP transport configuration",
+    "Claude-only deadline continuity and complete system-design source presentation guidance appended to the unchanged foundation skill",
+    "Claude name in README prose",
+    "Native eval layout; original prompts and expected behavior retained; separate tool/response graders for coverage and initial routine"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "interview-prep-db",
+  "version": "1.0.0",
+  "description": "Personalize software engineering interview practice with concrete company-specific coding, system-design and behavioral questions.",
+  "author": {
+    "name": "Lodely",
+    "url": "https://www.lodely.com/"
+  },
+  "homepage": "https://www.lodely.com/",
+  "keywords": [
+    "software engineering",
+    "interview practice",
+    "coding",
+    "system design",
+    "behavioral",
+    "company prep plans"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "displayName": "Interview Prep DB",
+  "repository": "https://github.com/Get-Lodely/interview-prep-db-claude",
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://github.com/Get-Lodely/interview-prep-db-claude#readme",
+  "supportUrl": "https://www.lodely.com/support",
+  "privacyPolicyUrl": "https://www.lodely.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.lodely.com/terms-and-conditions"
+}
